@@ -7,4 +7,3 @@
 
 3. SSC_Vidal2013_Wine.ipynb: Perform Sparse Subspace Clustering (SSC) Algorithm to cluster objects in Wine Dataset.
 
-Dataset Description:https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_digits.html.
