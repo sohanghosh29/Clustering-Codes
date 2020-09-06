@@ -7,3 +7,4 @@
 
 3. SSC_Vidal2013_Wine.ipynb: Perform Sparse Subspace Clustering (SSC) Algorithm to cluster objects in Wine Dataset.
 
+4. SSC_Vidal2013_Yale.ipynb: Perform Sparse Subspace Clustering (SSC) Algorithm to cluster Faces in Yale Dataset.
