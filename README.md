@@ -25,4 +25,4 @@ Codes 2-4: Follows the papers "Sparse Subspace Clustering: Algorithm, Theory, an
 
 Codes 5-7: Follows the paper "Sparse Subspace Clustering with Entropy-Norm" (ICML 2020) by Bai and Liang (https://proceedings.icml.cc/static/paper_files/icml/2020/1982-Paper.pdf)
 
-Codes 8-9: Follows the paper "Large-scale Multi-view Subspace Clustering in Linear Time" (AAA! 2020) by Kang, Zhao, Wangtao Zhou, Zhitong Zhao, Junming Shao, Meng Han, and Zenglin Xu (https://arxiv.org/pdf/1911.09290.pdf)
+Codes 8-9: Follows the paper "Large-scale Multi-view Subspace Clustering in Linear Time" (AAAI 2020) by Kang, Zhao, Wangtao Zhou, Zhitong Zhao, Junming Shao, Meng Han, and Zenglin Xu (https://arxiv.org/pdf/1911.09290.pdf)
