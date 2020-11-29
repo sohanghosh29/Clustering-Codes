@@ -16,8 +16,10 @@
 7. SSCE_Yale.ipynb: Perform Sparse Subspace Clustering with Entropy-Norm (SSCE) Algorithm to cluster Faces in Yale Dataset.
 
 8. LMVSC_Caltech101-20-QP.ipynb: Perform Large-scale Multi-View Subspace Clustering in Linear Time Algorithm (LMVSC) to cluster Caltech-101-20 Dataset.
+    <br> Dataset: https://github.com/yeqinglee/mvdata
 
 9. LMVSC_Handwritten-QP.ipynb: Perform Large-scale Multi-View Subspace Clustering in Linear Time Algorithm (LMVSC) to cluster Multi-View Handwritten Dataset.
+  <br> Dataset: https://github.com/yeqinglee/mvdata
 
 Note: 
 
