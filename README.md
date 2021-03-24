@@ -1,5 +1,7 @@
 # Clustering Codes
 
+##### Kindly note that the implementations in this repository are simply our attempt at implementing the below mentioned papers, originally published by the respective authors.
+
 1. KMeans.ipynb: Basic K-Means Clustering applied on the handwritten digits dataset.
                  Dataset Description:https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_digits.html.
 
